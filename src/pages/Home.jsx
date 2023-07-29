@@ -1,7 +1,6 @@
 import { Fragment } from "react";
 import Container from "../components/Container";
 import Hero from "../components/Hero";
-import Navbar from "../components/Navbar";
 import siteInfo from "../utils/SiteInfo";
 import Accordion from "../components/Accordion";
 import Subscription from "../components/Subscription";

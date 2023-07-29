@@ -1,4 +1,3 @@
-import IMAGE from "../assets/download.jpg";
 const Container = (props) => {
   return (
     <div className="hero min-h-[500px] my-6">
