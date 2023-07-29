@@ -11,7 +11,7 @@ const Container = (props) => {
         <img
           src={props.image}
           className=" w-[300px] lg:w-96 rounded-lg shadow-2xl"
-          alt="image"
+          alt={props.title}
         />
         <div>
           <h1 className="text-white text-3xl lg:text-5xl font-bold">

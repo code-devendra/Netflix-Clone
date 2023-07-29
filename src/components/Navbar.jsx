@@ -17,7 +17,7 @@ const Navbar = () => {
               <summary>English</summary>
               <ul className=" bg-slate-900 rounded-sm bg-opacity-70">
                 <li>
-                  <a href="#">English</a>
+                  <button className="cursor-pointer">English</button>
                 </li>
               </ul>
             </details>

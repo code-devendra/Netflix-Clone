@@ -3,55 +3,43 @@ const Footer = () => {
     <>
       <footer className="footer p-10 text-slate-200 underline">
         <div>
-          <a href="#" className="link link-hover">
-            FAQ
-          </a>
-          <a href="#" className="link link-hover">
-            Media Center
-          </a>
-          <a href="#" className="link link-hover">
+          <button className="link link-hover cursor-pointer">FAQ</button>
+          <button className="link link-hover cursor-pointer">
+            Medibutton Center
+          </button>
+          <button className="link link-hover cursor-pointer">
             Ways to Watch
-          </a>
-          <a href="#" className="link link-hover">
+          </button>
+          <button className="link link-hover cursor-pointer">
             Cookie Preferences
-          </a>
-          <a href="#" className="link link-hover">
-            Speed Test
-          </a>
+          </button>
+          <button className="link link-hover cursor-pointer">Speed Test</button>
         </div>
         <div>
-          <a href="#" className="link link-hover">
+          <button className="link link-hover cursor-pointer">
             Help Center
-          </a>
-          <a href="#" className="link link-hover">
+          </button>
+          <button className="link link-hover cursor-pointer">
             Investor Relations
-          </a>
-          <a href="#" className="link link-hover">
+          </button>
+          <button className="link link-hover cursor-pointer">
             Terms of Use
-          </a>
-          <a href="#" className="link link-hover">
+          </button>
+          <button className="link link-hover cursor-pointer">
             Corporate Information
-          </a>
-          <a href="#" className="link link-hover">
+          </button>
+          <button className="link link-hover cursor-pointer">
             Legal Notices
-          </a>
+          </button>
         </div>
         <div>
-          <a href="#" className="link link-hover">
-            Account
-          </a>
-          <a href="#" className="link link-hover">
-            Jobs
-          </a>
-          <a href="#" className="link link-hover">
-            Privacy
-          </a>
-          <a href="#" className="link link-hover">
-            Contact Us
-          </a>
-          <a href="#" className="link link-hover">
+          <button className="link link-hover cursor-pointer">Account</button>
+          <button className="link link-hover cursor-pointer">Jobs</button>
+          <button className="link link-hover cursor-pointer">Privacy</button>
+          <button className="link link-hover cursor-pointer">Contact Us</button>
+          <button className="link link-hover cursor-pointer">
             Only on Netflix
-          </a>
+          </button>
         </div>
       </footer>
       <footer className="footer px-10 pb-12 text-slate-300 ">
